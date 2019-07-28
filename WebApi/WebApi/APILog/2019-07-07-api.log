@@ -1,0 +1,193 @@
+2019-07-07 15:21:01.3133|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:21:36.8542|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:21:37.8327|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: The wait operation timed out
+
+
+2019-07-07 15:24:49.5065|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:25:10.6104|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:25:57.3455|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/Contact/7
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2019-07-07 15:26:09.2934|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/Contact/7
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":7}]}
+
+2019-07-07 15:26:37.1247|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/Contact/4
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":4}]}
+
+2019-07-07 15:28:16.9783|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Projects/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:29:05.8572|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:29:51.4466|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:31:22.5552|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Projects/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:31:47.3811|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:31:52.9579|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:31:53.0218|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Projects/Project/2
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{"id":2}]}
+
+2019-07-07 15:35:51.6655|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Tasks/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.TaskController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:39:46.1670|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:39:47.9620|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Projects/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:40:01.1340|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:40:05.6544|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Projects/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:40:38.4406|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:40:43.1739|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Projects/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:41:06.8795|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-07-07 15:41:15.1598|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Projects/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

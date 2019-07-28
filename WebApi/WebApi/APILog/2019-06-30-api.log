@@ -1,0 +1,16 @@
+2019-06-30 10:33:20.9605|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Contacts/all
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-30 11:31:10.8726|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

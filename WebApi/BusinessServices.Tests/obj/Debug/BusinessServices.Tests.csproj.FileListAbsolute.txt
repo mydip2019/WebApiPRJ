@@ -1,0 +1,61 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll.config
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\DataModel.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Moq.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\nunit.framework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\TestsHelper.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Resolver.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\DataModel.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\TestsHelper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Moq.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\nunit.framework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.Net4.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll.config
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\BusinessEntities.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\DataModel.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Moq.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\TestsHelper.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Resolver.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\BusinessEntities.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\DataModel.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\DataModel.dll.config
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\TestsHelper.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.xml
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Moq.xml
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Resolver.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.csprojAssemblyReference.cache
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.csproj.CopyComplete
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.pdb

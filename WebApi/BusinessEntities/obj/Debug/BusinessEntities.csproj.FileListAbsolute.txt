@@ -1,0 +1,44 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\1\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\2\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\3\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\4\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\5\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+E:\Atricles\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+E:\Atricles\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+E:\Atricles\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+E:\Atricles\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+E:\Atricles\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Dipesh\Downloads\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh\Downloads\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Dipesh\Downloads\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\BusinessEntities\obj\Debug\BusinessEntities.pdb

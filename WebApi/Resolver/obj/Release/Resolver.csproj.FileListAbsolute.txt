@@ -1,0 +1,14 @@
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Resolver.dll
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Resolver.pdb
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Unity.Mvc3.dll
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\obj\Release\Resolver.csproj.CoreCompileInputs.cache
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\obj\Release\Resolver.csproj.CopyComplete
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\obj\Release\Resolver.dll
+C:\Users\Dipesh\Desktop\Assignment\Final Submission\SBA_WebApi_Dipesh\WebApi\Resolver\obj\Release\Resolver.pdb

@@ -1,0 +1,244 @@
+2019-05-16 10:03:50.0807|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 10:04:46.3543|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Projects/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 10:04:46.3543|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Tasks/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.TaskController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 10:04:50.0072|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 10:04:50.0072|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50876/v1/Projects/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ProjectController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 10:04:50.0072|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50876/v1/Tasks/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.TaskController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 10:04:54.7075|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 10:04:57.1561|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 10:05:11.2081|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 10:06:24.5959|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 10:06:43.2592|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 10:19:08.2209|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 10:29:08.2094|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 11:00:54.4061|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50876/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 11:14:30.5580|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 11:15:03.7459|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 11:48:11.3695|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 11:49:09.0174|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 11:50:50.3462|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 11:51:17.7444|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: 
+WebApiDataModel.msl(14,10) : error 3002: Problem in mapping fragments starting at line 14:Potential runtime violation of table Tokens's keys (Tokens.TokenId): Columns (Tokens.TokenId) are mapped to EntitySet Tokens's properties (Tokens.TokenId) on the conceptual side but they do not form the EntitySet's key properties (Tokens.AuthToken, Tokens.TokenId).
+
+
+
+2019-05-16 11:57:21.4370|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PARKEH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 11:57:44.5977|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PARKEH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: Schema specified is not valid. Errors: 
+The relationship 'WebApiDbModel.FK_Tokens_User' was not loaded because the type 'WebApiDbModel.Tokens' is not available.
+
+
+
+2019-05-16 11:59:33.6951|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 12:00:00.5506|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : 
+Error: Schema specified is not valid. Errors: 
+The relationship 'WebApiDbModel.FK_Tokens_User' was not loaded because the type 'WebApiDbModel.Tokens' is not available.
+
+
+
+2019-05-16 14:47:36.7557|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/allContacts
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-05-16 15:04:02.2740|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50877/v1/Contacts/All
+Token: DIPESH_PAREKH
+Controller : WebApi.Controllers.ContactsController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
